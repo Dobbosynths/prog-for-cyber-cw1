@@ -1,4 +1,4 @@
-import os, random, string
+import random, string
 
 def pass_checker(password):                 #Define the function pass_checker with the password string as a parameter. This function will be used to check passwords
     password = password.strip()             #Strip password of all white space
